@@ -4,12 +4,12 @@
 // do Firestore (arquivo firestore.rules na raiz do projeto).
 
 export const firebaseConfig = {
-  apiKey: 'COLE_AQUI_API_KEY',
-  authDomain: 'COLE_AQUI_PROJECT_ID.firebaseapp.com',
-  projectId: 'COLE_AQUI_PROJECT_ID',
-  storageBucket: 'COLE_AQUI_PROJECT_ID.appspot.com',
-  messagingSenderId: 'COLE_AQUI_SENDER_ID',
-  appId: 'COLE_AQUI_APP_ID',
+  apiKey: 'AIzaSyCEIC0vMCzqqcEFwBzudJu1nqNnDWgwDUo',
+  authDomain: 'edutask-9db85.firebaseapp.com',
+  projectId: 'edutask-9db85',
+  storageBucket: 'edutask-9db85.firebasestorage.app',
+  messagingSenderId: '412066190786',
+  appId: '1:412066190786:web:4ff5191ba1784e5024325b',
 };
 
 export function isFirebaseConfigured() {
